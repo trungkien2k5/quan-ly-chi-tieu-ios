@@ -1,0 +1,9 @@
+{
+  "appId": "app.honghong.chitieu",
+  "appName": "Quản lý chi tiêu",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "capacitor"
+  }
+}
